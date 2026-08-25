@@ -18,8 +18,3 @@
    ```bash
    streamlit run app.py
    ```
-
-```
-
-**That's all I'd put in the README.** Your report, presentation, and notebook already provide the detailed project information, so there is no need to repeat it in the README.
-```
